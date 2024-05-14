@@ -8,8 +8,8 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM:
-DEVELOPED BY:AJINA JOSHPIN.A
-REGISTER NUMBER:212223230008
+DEVELOPED BY:DINESH S
+REGISTER NUMBER:212222230033
 ## CLIENT:
 ```
 import socket
